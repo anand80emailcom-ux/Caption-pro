@@ -1,17 +1,4 @@
-⚡ Ai caption generater v4.0
-🌐 Access Details:
-Aapki app is waqt is private workspace mein hosted hai. Aapka data (folders aur designs) Firebase Cloud par encrypted aur save hai.
-🔑 How to Open:
- * Is conversation ka link apne browser mein save karein.
- * Jab bhi aapko editing karni ho, bas is link ko kholein.
- * Right side mein Preview button par click karein.
- * Aapka Titan Dashboard (Folders & Designs) turant load ho jayega.
-📁 Status:
- * Cloud Database: Connected ✅
- * Folder System: Active ✅
- * Auth: Anonymous User Cloud Protected ✅
- * URL Status: Live in Canvas Workspace ✅
-Note: Ye link aapka personal editing portal hai. Ise apne paas safe rakhein.
+#Ai caption generater 
 <!DOCTYPE html>
 <html lang="hi">
 <head>
